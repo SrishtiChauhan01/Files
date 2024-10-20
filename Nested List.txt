@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>Nested List</title>
+</head>
+<body>
+<h1>Nested Lists</h1>
+<ol>
+<li>Fruits</li>
+<li>Vegetables</li>
+<li>Cartoons</li>
+<ul>
+<li>Shinchan</li>
+<li>Doraemon</li>
+<li>Pokemon</li>
+<li>Mickey Mouse</li>
+</ul>
+<li>Watches</li>
+<li>Speakers</li>
+</ol>
+</body>
+</html>

@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>Lists</Title>
+</head>
+<body>
+<h1>Ordered Lists</h1>
+<h2>Stationary lists</h2>
+<ol type="1" start="5">
+<li>Book</li>
+<li>Pen</li>
+<li>Pencil</li>
+<li>Eraser</li>
+<li>Sharpener</li>
+<li>Sticky Notes</li>
+</ol>
+</body>
+</html>
