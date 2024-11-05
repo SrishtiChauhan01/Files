@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>Login</title>
+</head>
+<body>
+<center>
+<h1>Document</h1>
+<label> First Name : </label>
+<input tpe="text" minlength="4" maxlength="8" size="25" placeholder="Enter Your First Name here" </input> <br><br>
+<label> Middle Name </label>
+<input type="text" minlength="4" maxlength="8" size=25" placeholder="Enter your Middle Name here" </inpu> <br><br>
+<label> Last Name : </label>
+<input tpe="text" minlength="4" maxlength="8" size="25" placeholder="Enter your Last Name here" </input> <br><br>
+<label> E-mail : </label>
+<input tpe="text" minlength="4" maxlength="8" size="25" placeholder="Enter your E-mail here" </input> <br><br>
+<label> Password : </label>
+<input tpe="password" name="password" id="password" minlength="4" maxlength="8" size="25" placeholder="Enter your Password here" </input> <br><br>
+<label> Login : </label>
+<input type="Submit" name="Login" value="login" </input> <br><br>
+</form>
+</body>
+</html>
