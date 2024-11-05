@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>Document</title>
+<body>
+<form>
+<center> 
+<h1>Confirm Your Email</h1>
+<label> Name <label>
+<input type="text" minlength="4" maxlength="8" size="25" placeholder="Enter Your Name"> </input><br><br>
+<label> E-mail </label>
+<input ype="text" minlength="4" maxlength="8" size="25" placeholder="E-mail"> </input> <br><br>
+<label> Confirm </label>
+<input type="text" minlength="4" maxlength="8" size="25" placeholder="Confirm your E-mail"> </input> <br><br>
+<label> Register : </label>
+<input type="Submit" name="Register" value="Register" minlength="4" maxlength="8" size="25" </input> <br><br>
+</form>
+</body>
+</html>
