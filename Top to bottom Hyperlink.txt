@@ -4,11 +4,11 @@
 </head>
 <body>
 <a name="top" href="#bottom">  Go to the bottom </a><br><br>
-<img src="‪C:\Users\Siddharth Chauhan\Desktop\Golden retriever.webp" height="200" width="300"><br><br>
+<img src="‪C:\Users\Siddharth Chauhan\Desktop\sunflower.jpg" height="200" width="300"><br><br>
 
-<img src="‪C:\Users\Siddharth Chauhan\Desktop\Golden retriever.webp" height="200" width="300"><br><br>
+<img src="‪‪C:\Users\Siddharth Chauhan\Desktop\sunflower.jpg" height="200" width="300"><br><br>
 
-<img src="‪C:\Users\Siddharth Chauhan\Desktop\Golden retriever.webp" height="300" width="200"><br><br>
+<img src="‪C:\Users\Siddharth Chauhan\Desktop\sunflower.jpg" height="300" width="200"><br><br>
 
 <a href="#top" name="bottom">  Go to top of the page </a>
 </body>
